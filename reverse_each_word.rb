@@ -1,6 +1,5 @@
 def reverse_each_word(array)
-  
-  string.each. do |sentence|
+  array.reverse
+ 
   end
-   sentence.reverse
 end
